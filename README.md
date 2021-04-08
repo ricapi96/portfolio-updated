@@ -2,6 +2,7 @@
 
 # Screenshot
 
+* ![](./assets/images/portfolio.png)
 
 # Deployed Application
 
