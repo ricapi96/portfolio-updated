@@ -1,3 +1,16 @@
 body {
-    background-color: rgb(206, 200, 226);
+    background-color: rgb(10, 4, 31);
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
 }
+
+h1 {
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    border-radius: 50%;
+  }
