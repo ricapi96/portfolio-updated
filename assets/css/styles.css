@@ -25,9 +25,11 @@ img {
     border-radius: 150%;
   }
 
-  /* :root {
-    --bs-blue: #0d6efd;
-  }  */
+@media screen and (max-width: 991px) {
+    .container {
+      max-width: 728px;
+    }
+}
 
 /* Modal */
 .modal-body {
