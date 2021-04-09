@@ -16,7 +16,15 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
 }
 
+h6 {
+    color: wheat;
+    padding: 10px;
+}
+
 img {
     border-radius: 50%;
   }
 
+  :root {
+    --bs-blue: #0d6efd;
+  } 
