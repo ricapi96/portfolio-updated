@@ -42,5 +42,8 @@ img {
 
 .modal-header {
     background-color: darkslategray;
-    
+}
+
+.card-body {
+    background-color: rgba(163, 159, 159, 0.719);
 }
