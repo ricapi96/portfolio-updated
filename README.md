@@ -4,7 +4,7 @@ My updated portfolio showcasing the skills that I've acquired during the last tw
 
 # Screenshot
 
-* ![](./assets/images/portfolio2.png)
+ ![](./assets/images/portfolio2.png)
 
 # Deployed Application
 
