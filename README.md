@@ -1,8 +1,10 @@
 # My Portfolio 2.0
 
+My updated portfolio showcasing the skills that I've acquired during the last two months.
+
 # Screenshot
 
-* ![](./assets/images/portfolio.png)
+* ![](./assets/images/portfolio2.png)
 
 # Deployed Application
 
