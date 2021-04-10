@@ -16,4 +16,4 @@ My updated portfolio showcasing the skills that I've acquired during the last tw
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-                            💙 Made by Erica Roquemore 💙
+                                        💙 Made by Erica Roquemore 💙
