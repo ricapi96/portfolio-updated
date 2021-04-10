@@ -1,6 +1,6 @@
 # My Portfolio 2.0
 
-My updated portfolio showcasing the skills that I've acquired during the last two months.
+My updated portfolio showcasing the skills that I've acquired thus far in my education.
 
 # Screenshot
 
