@@ -2,9 +2,10 @@
 
 My updated portfolio showcasing the skills that I've acquired thus far in my education.
 
-# Screenshot
+# Screenshots
 
  ![](./assets/images/portfolio2.png)
+ ![](./assets/images/portfolio3.png)
 
 # Deployed Application
 
